@@ -11,7 +11,7 @@ from tkinter import messagebox, ttk
 
 root=Tk()
 root.title("Calculator")
-root.geometry("1200x550")
+root.geometry("600x550")
 root.config(bg="light yellow")
 
 #Cost Avoidance
